@@ -6,5 +6,6 @@ public class halloword
 	{
 		System.out.println("catchcatch");
 		System.out.println("twotwotwo");
+		System.out.println("halloword.main()");
 	}
 }
